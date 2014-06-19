@@ -10,7 +10,7 @@ public class ConsoleInput
 		//String s = ct.ReadString();
 		//System.out.println(s);
 
-
+/*
 
 	String s1 = new String("tei mesologgiou");
 	String s2 = new String("tei mesologgiou");
@@ -19,6 +19,8 @@ public class ConsoleInput
 	String  sa=String.valueOf(b1);
 	String sb=String.valueOf(b2);
 	System.out.println(sa+" "+sb);
+*/
+System.out.println("Hello World");
 	}
 }
 
